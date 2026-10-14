@@ -1,0 +1,13 @@
+[package]
+name = "duplex-voice-runtime"
+version = "0.1.0"
+edition = "2024"
+description = "A real-time, full-duplex voice agent runtime written in Rust"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jacoesad/duplex-voice-runtime"
+readme = "README.md"
+keywords = ["voice-agent", "speech", "sip", "realtime", "rust"]
+categories = ["asynchronous", "multimedia::audio", "network-programming"]
+publish = false
+
+[dependencies]
